@@ -10,6 +10,7 @@
 * Deciding what you need
 * Finding what you need
 * Growing it organic
+* Keeping it sustained
 
 ## 3. Tools for Data Science
 * The essentials
