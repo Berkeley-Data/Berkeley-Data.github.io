@@ -28,8 +28,8 @@
 
 ## 5. Communicating (and Influencing)
 * Grooming your stakeholder for Data Science
-* The what, why, and how of the project pitch
-* Before the research question: What is the value proposition and how will you measure it?
+* The what, why, and how of the product pitch
+* Before the research question: What is the value proposition and how will you measure success?
 * The key topics to address in the stakeholder review meeting
 * Let’s get visual:  Ways to deliver results of your data analysis
 * When to pivot and how to deliver the message
